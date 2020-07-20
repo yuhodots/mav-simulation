@@ -6,7 +6,7 @@
 
 ### Chapter 2.
 
-I designed the MAV by imitating The'Lockheed F-117 Nighthawk'.
+I designed the MAV by imitating The 'Lockheed F-117 Nighthawk'.
 
 ![img](./img/2-1.png)
 
