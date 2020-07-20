@@ -1,4 +1,4 @@
-##MAV simulation projects
+## MAV simulation projects
 
  This is the repository about the implementation of projects in 'Small unmanned aircraft' textbook. This is the code I submitted for the assignment at the UAV Navigation & Control Course. You can simply get the original source about this projects in [here](http://uavbook.byu.edu/doku.php). Check out the YouTube video here to see the correct results for the simulation. You can also get a texbook pdf file. I have put some of the project results I have implemented below. (But, report is not attached)
 
